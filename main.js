@@ -1,7 +1,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["I loved her.. But she didn't appreciate it.", "I don't know what I did wrong.", "Instead of telling me what I did wrong, She chose to ignore me.", "Hopefully one day she comes back because without her I have no motivation."];
+const textArray = ["I swear I'm doing my best just to be deserving for all the things that I think I deserve. But am I really that hard to love?"];
 const typingDelay = 100;
 const erasingDelay = 40;
 const newTextDelay = 3000; // Delay between current and next text
